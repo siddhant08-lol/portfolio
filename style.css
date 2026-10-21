@@ -1,0 +1,117 @@
+:root {
+    --color-primary: #6a11cb;
+    --color-secondary:#2575fc;
+    --color-bg-light:#f0f0f3;
+    --color-bg-dark:#121212;
+    --color-glass-dark:rgba(255,255,255,0.25);
+    --color-glass-light:rgba(0,0,0,0.35);
+    --color-text-light:#222;
+    --color-text-dark:#ddd;
+    --color-accent-light:#2375fc;
+    --color-accent-dark:#6a11cb;
+    --transition-speed:0.3s;
+    --font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    --shadow-light:rgba(0,0,0,0.15);
+    --shadow-dark:rgba(255,255,255,0.1);
+}
+:root[data-theme="dark"]{
+    --background:var(--color-bg-dark);
+    --glass-bg:var(--color-glass-dark);
+    --text-color:var(--color-text-dark);
+    --accent-color:var(--color-accent-dark);
+    --shadow-color:var(--shadow-dark);
+
+}
+
+:root[data-theme=light]{
+    --background:var(color-bg-light);
+    --glass-bg:var(--color-glass-light);
+    --text-color:var(--color-text-light);
+    --accent-color:var(--color-accent-light);
+    --shadow-color:var(--shadow-light);
+
+}
+ 
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body{
+    font-family:var(--font-family);
+    background:var(--background);
+    color:var(--text-color);
+
+}
+nav{
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:1rem 3rem;
+    background:var(--glass-bg);
+    backdrop-filter:blur(12px);
+    box-shadow: 0 4px 30px var(--shadow-color);
+    z-index:1000;
+    border-radius:0 0 20px 20px;
+    transition:background var(--transition-speed);
+
+
+}
+.logo{
+    font-size:1.8rem;
+    font-weight:700;
+    background:linear-gradient(45deg,var(--color-primary),var(--color-secondary));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent;
+    user-select:none;
+}
+
+nav ul {
+    list-style:none;
+    display:flex;
+    gap:2rem;
+}
+nav ul li a{
+    text-decoration:none;
+    color:var(--text-color);
+         font-weight:600;
+         font-size:1rem;
+         padding:0;
+         border-radius:8px;
+         transition:ll 0.3s ease;
+         position:relative;
+
+}
+
+nav ul li a::after{
+    content:'';
+    position:absolute;
+    left:0;
+    bottom:0;
+    height:2px;
+    width:0;
+    background:var(--accent-color);
+    transition:width 0.3s ease;
+    border-radius:4px;
+
+
+}
+     nav ul li a:hover::after,
+     nav ul li a.active::after{
+width:100%;
+
+     } 
+
+     nav ul li a:hover,
+     nav ul li a.active{
+        color:var(--accent-color);
+     }
+
+     .theme-toggle{
+        
+     }
