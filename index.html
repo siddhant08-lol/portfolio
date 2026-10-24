@@ -19,14 +19,23 @@
     
          <ul id="navbarMenu" role="menu">
     
-            <li role="none"><a href="#home" role="menuitem" class="active">Home</a></li>
-            <li role="none"><a href="#about" role="menuitem" class="active">About</a></li>
-            <li role="none"><a href="#project" role="menuitem" class="active">Project</a></li>
-            <li role="none"><a href="#contact" role="menuitem" class="active">Contact</a></li>
+            <li role="none"><a href="#home" role="menuitem" >Home</a></li>
+            <li role="none"><a href="#about" role="menuitem" >About</a></li>
+            
+            <li role="none" class="dropdown"><a href="#project" class="pl" role="menuitem" >Project</a>
+            <ul class="ddm">
+                <li><a href="#website">Website</a></li>
+                <li><a href="#Game">Game</a></li>
+            </ul>
+        </li>
+            
+            <li role="none"><a href="#contact" role="menuitem" >Contact</a></li>
          </ul>
 
-         <button class="theme-toggle" id="themetoggle" aria-label="Toggle Dark/Light theme" title="Toggle Dark/light Theme"></button>
+         <button class="theme-toggle" id="themeToggle" aria-label="Toggle Dark/Light theme" title="Toggle Dark/light Theme">
          <i class="fa-solid fa-moon"></i>
+         </button>
 </nav>
 </body>
+<script src="style.js" defer></script>
 </html>
