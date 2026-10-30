@@ -386,6 +386,37 @@ nav > ul > li > a.active::after {
         color: white;
     }
 
+    #testimonial{
+        padding:70px 15px;
+    }
+
+    .tc{
+        font-size:2rem;
+    }
+
+    .testsil{
+        padding:15px 5px;
+        gap:5px;
+    }
+
+    .tescard{
+        padding:30px 15px;
+    }
+
+    .tescard p {
+        font-size:0.95rem;
+    }
+
+    .prev-btn,
+    .next-btn{
+        width:32px;
+        height:32px;
+        font-size:0.08rem;
+    }
+
+
+
+
     nav ul {
         position: fixed;
         flex-direction: column;
@@ -820,3 +851,147 @@ textarea{
     color:var(--color-primary);
 
 }
+
+#testimonial{
+    padding:100px 5%;
+    background:var(--background);
+    color:var(--text-color);
+}
+
+.con{
+    max-width:1100px;
+    margin:auto;
+}
+
+.tc{
+    text-align:center;
+    font-size:2.5rem;
+    margin-bottom:45px;
+    font-weight:700;
+}
+
+.testsil{
+    position:relative;
+    display:flex;
+    align-items:center;
+    gap:15px;
+    padding:30px;
+    background:#181f29;
+    border-radius:25px;
+    border:1px solid black rgba(255,255,255,0.1);
+}
+
+.swipe{
+    width:100;
+    overflow:hidden;
+    cursor:grab;
+    touch-action:pan-y;
+    user-select:none;
+}
+
+.swipe:active{
+    cursor:grabbing;
+}
+
+.sw{
+    display:flex;
+    transition:transform 0.5s ease;
+}
+
+.ss{
+    flex:0 0 100%;
+    min-width:0;
+    padding:10px;
+    text-align:center;
+}
+
+.tescard{
+    background:#0e1118;
+    border-radius:20px;
+    padding:45px 35px;
+    min-height:250px;
+    display:Flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    border:1px solid rgba(255,255,255,0.08);
+    transition:0.3s ease;
+}
+
+.tescard:hover{
+    box-shadow:0 10px 30px rgba(106,17,203,0.2);
+}
+
+.tescard i.fa-quote-left{
+    font-size:2.5rem;
+    color:#e8c98b;
+    margin-bottom:20px;
+}
+
+.tescard p{
+    font-size:1.1rem;
+    line-height:1.8;
+    font-style:italic;
+    color:#e8c98b;
+    max-width:650px;
+    margin-bottom:20px;
+}
+
+.name{
+    font-size:1.1rem;
+    font-weight:700;
+    color:#e8c98b;
+}
+
+
+.prev-btn,
+.next-btn{
+    width:45px;
+    height:45px;
+    flex-shrink:0;
+border:none;
+border-radius:50%;
+background:#6a11cb;
+color:white;
+font-size:1rem;
+cursor:pointer;
+display:flex;
+align-items:center;
+justify-content:center;
+transition:0.3s ease;
+}
+
+.prev-btn:hover,
+.next-btn:hover{
+    background:#2575fc;
+    transform:scale(1.1);
+
+}
+
+.swiperp{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:10px;
+    margin-top:25px;
+}
+
+.swiperp .dot{
+    width:10px;
+    height:10px;
+    border:none;
+    border-radius:50%;
+    background:#777;
+    cursor:pointer;
+    transition:0.3s ease;
+}
+
+.swiper .dot.active{
+    background:#e8c98b;
+    width:28px;
+    border-radius:10px;
+}
+
+
+
+
