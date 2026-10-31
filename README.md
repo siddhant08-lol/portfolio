@@ -9,9 +9,9 @@ ss of the game:
 
 
 # technology used:
-1.html
-2.css
-3.js
+1. html
+2. css
+3. js
 
 # Dependencies
 A modern web browser such as Google Chrome, Microsoft Edge, or Firefox No additional libraries or software are required Internet connection is not required after downloading the project
