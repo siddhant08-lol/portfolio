@@ -26,7 +26,9 @@ Open the project folder. Open the index.html file. Run it using a web browser or
 
 # help and note:
 i am beginner and there might be issue with the website the website doesn show the infromation of mine it just a show piece website and the contact me information button doesnt do anything and the insta youtube icon does leds to any insta and yt as i say
-it just a show peice website hope u like it.
+it just a show peice website hope u like it.u can click on the project name and it will take it directly to the project 
+
+
 
 # link of the game:
 https://siddhant08-lol.github.io/portfolio/
