@@ -28,7 +28,7 @@ Open the project folder. Open the index.html file. Run it using a web browser or
 # help and note:
 
 i am beginner and there might be issue with the website the website doesn show the infromation of mine it just a show piece website and the contact me information button doesnt do anything and the insta youtube icon does leds to any insta and yt as i say
-it just a show peice website hope u like it.u can click on the project name and it will take it directly to the project 
+it just a show peice website hope u like it.u can click on the project name and it will take it directly to the project.also all the button are for show piece but the nav button work.
 
 
 
