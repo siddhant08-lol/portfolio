@@ -4,7 +4,8 @@ this website is a portfolio made using html css and js portfoilo is a website wh
 
 # description:
 this website is a portfolio it is  actually not my portfoilo it just a show piece website the given infromation do not tell about me.
-ss of the game:
+
+# ss of the game:
 <img width="1366" height="768" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/f2450431-e3f4-4f1d-8cfc-60aab8ed3b26" />
 
 
@@ -25,6 +26,7 @@ Open the project folder. Open the index.html file. Run it using a web browser or
 
 
 # help and note:
+
 i am beginner and there might be issue with the website the website doesn show the infromation of mine it just a show piece website and the contact me information button doesnt do anything and the insta youtube icon does leds to any insta and yt as i say
 it just a show peice website hope u like it.u can click on the project name and it will take it directly to the project 
 
