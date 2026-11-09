@@ -53,4 +53,23 @@ A simple restaurant website designed to showcase the restaurant it delicious foo
 
 https://siddhant08-lol.github.io/food-in-website/
 
+
+
+# jersey-store:
+a simple football store website matching the vibes of 2026 world cup. it features nav bar different section and cart option and etc. it just a show piece website made by using html css. i made it during the worldcup season to match the vibe.
+
+# Tech slack:
+1. html
+2. css
+3. js
+
+# SS of the project:
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/337c739b-e91d-4ad9-ad8d-85b2d8e0876e" />
+
+# link of the project:
+Demo:https://siddhant08-lol.github.io/world-cup-season/
+
+
+
 # made by : siddhant poudel
