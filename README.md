@@ -49,6 +49,8 @@ A simple restaurant website designed to showcase the restaurant it delicious foo
 <img width="1366" height="768" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/a9115fb6-7438-4db6-b83a-77513cfcae5e" />
 
 
-#
+# link of the project:
+
+https://siddhant08-lol.github.io/food-in-website/
 
 # made by : siddhant poudel
