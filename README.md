@@ -107,4 +107,22 @@ This project is a recreation of the classic Flappy Bird game using html css and 
 https://siddhant08-lol.github.io/og-game/
 
 
+# Memory game:
+
+it a games where there is 16 card and u have to match the same two card and then u match all the same 2 card the game get shuffle and u can play it again. it contain features like  the shuffle and the shake animation  and card flip animation.
+
+# Tech slack:
+1. html
+2. css
+3. js
+
+# ss of the game:
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a2b9f76b-79f3-4fcf-b6b7-7637e0a348db"/>
+
+# link of the game:
+https://siddhant08-lol.github.io/game/ 
+
+
+
+
 # made by : siddhant poudel
