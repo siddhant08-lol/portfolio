@@ -36,7 +36,7 @@ it just a show peice website hope u like it.u can click on the project name and 
 # link of the game:
 https://siddhant08-lol.github.io/portfolio/
 
-# food-in-website:
+# food in website:
 A simple restaurant website designed to showcase the restaurant it delicious food, and overall atmosphere It features an attractive homepage food menu beautiful images etc. This is a show piece  project created using HTML CSS JS.
 
 # Tech slack:
@@ -55,7 +55,7 @@ https://siddhant08-lol.github.io/food-in-website/
 
 
 
-# jersey-store:
+# jersey store:
 a simple football store website matching the vibes of 2026 world cup. it features nav bar different section and cart option and etc. it just a show piece website made by using html css. i made it during the worldcup season to match the vibe.
 
 # Tech slack:
@@ -70,6 +70,22 @@ a simple football store website matching the vibes of 2026 world cup. it feature
 # link of the project:
 Demo:https://siddhant08-lol.github.io/world-cup-season/
 
+# flower store:
+a flower website is a beautifully designed responsive website.it features clean pink themed layout with section of home about us products review and contact.
+
+
+
+# Tech slack:
+1. html
+2. css
+3. js
+
+# ss of the project:
+<img width="1366" height="768" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/cd9b51c5-1951-4a9b-8e8d-9fb96dca89c4" />
+
+
+# link of the project:
+demo:https://flower-website-roan.vercel.app/
 
 
 # made by : siddhant poudel
