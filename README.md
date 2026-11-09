@@ -35,4 +35,18 @@ it just a show peice website hope u like it.u can click on the project name and 
 # link of the game:
 https://siddhant08-lol.github.io/portfolio/
 
+# food-in-website:
+A simple restaurant website designed to showcase the restaurant it delicious food, and overall atmosphere It features an attractive homepage food menu beautiful images etc. This is a show piece  project created using HTML CSS JS.
+
+# Tech slack:
+1. html
+2. css
+3. js
+
+# ss of the project:
+
+SS of the website:<img width="1366" height="768" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/a9115fb6-7438-4db6-b83a-77513cfcae5e" />
+
+
+
 # made by : siddhant poudel
