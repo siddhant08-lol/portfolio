@@ -6,6 +6,7 @@ this website is a portfolio made using html css and js portfoilo is a website wh
 this website is a portfolio it is  actually not my portfoilo it just a show piece website the given infromation do not tell about me.
 
 # ss of the game:
+
 <img width="1366" height="768" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/f2450431-e3f4-4f1d-8cfc-60aab8ed3b26" />
 
 
@@ -45,8 +46,9 @@ A simple restaurant website designed to showcase the restaurant it delicious foo
 
 # ss of the project:
 
-SS of the website:<img width="1366" height="768" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/a9115fb6-7438-4db6-b83a-77513cfcae5e" />
+<img width="1366" height="768" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/a9115fb6-7438-4db6-b83a-77513cfcae5e" />
 
 
+#
 
 # made by : siddhant poudel
