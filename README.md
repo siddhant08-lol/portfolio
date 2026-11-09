@@ -88,4 +88,23 @@ a flower website is a beautifully designed responsive website.it features clean 
 demo:https://flower-website-roan.vercel.app/
 
 
+# flappy bird:
+
+This project is a recreation of the classic Flappy Bird game using html css and js The player controls the bird by clicking or pressing a key to make it fly upward The bird falls automatically due to gravity so the player must control its movement carefully to pass through the gaps between the pipes.
+
+# Tech slack:
+
+1. html
+2. css
+3. js
+
+# ss of the game:
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/60256443-f619-46fa-bced-b508b41d0d2a" />
+
+# link of the game:
+
+https://siddhant08-lol.github.io/og-game/
+
+
 # made by : siddhant poudel
